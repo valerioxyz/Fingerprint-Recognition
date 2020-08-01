@@ -1,0 +1,1 @@
+Per l'esecuzione di Fingerprint Recognition si faccia partire lo script MATLAB main.m

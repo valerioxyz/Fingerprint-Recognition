@@ -1,0 +1,1 @@
+FingerPrint recognition process using SURF features & cosine distance. We did not use any training method to implement this. A good enlargement of this project could be training for example a SVM and give her a lot of fingerprints as trainin set.
